@@ -5,7 +5,22 @@ padding: 0;
 line-height: 1;
 }
 
+body h1 {
+    background-color: rgb(226, 183, 183);
+    text-align: center;
+    padding: 20px;
+    font-size: 3rem;
+    
+   
+}
 
+body h2 {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    
+}
 
 header {
     background-color: rgb(255, 255, 255);
@@ -37,8 +52,8 @@ button:hover {
 }
 
 img {
-    border: 3px dashed #333;
-    border-radius: 10px;
+    border: 0px solid #333;
+    border-radius: 13px;
 
 
 }
