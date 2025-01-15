@@ -17,9 +17,15 @@ body h1 {
 body h2 {
     background-color: rgb(255, 255, 255);
     text-align: center;
-    padding: 20px;
-    font-size: 1.5rem;
+    padding: px;
+    font-size: 1.8rem;
     
+}
+
+body h3{
+padding: 20px;
+text-align:center;
+
 }
 
 header {
@@ -58,13 +64,14 @@ img {
 
 }
 
-img:hover{
+img:hover {
     transform: scale(1.1);
 
 }
 
-.custom-table td{
+.custom-table td, th{
 
+padding-bottom: 20px;
 padding-left: 20px;
 
 }
