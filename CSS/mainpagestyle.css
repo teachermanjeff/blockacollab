@@ -76,6 +76,9 @@ padding-left: 20px;
 
 }
 
+.custom-table{
+  width: 100%
+}
 .custom-table h2 {
     font-size:2rem;
     text-align: center;
