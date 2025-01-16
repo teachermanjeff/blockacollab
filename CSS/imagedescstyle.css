@@ -61,12 +61,25 @@ body {
         border: 5px solid #000000;
         padding: 5px;
         margin: 20px;
+       
 
     }
 
     article p{
-
+        padding-top: 30px;
         margin: 20px;
         text-align:left;
+
+    }
+
+    section {
+
+        float: left;
+
+    }
+
+    footer {
+
+        margin-top: 400px
 
     }
