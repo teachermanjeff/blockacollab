@@ -91,13 +91,13 @@ img {
 }
 
 img:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
 
 }
 
 .custom-table td, th {
-    padding-bottom: 20px;
-    padding-left: 20px;
+    padding-bottom: 10px;
+
     border-style: solid;
     border-color: red;
 
