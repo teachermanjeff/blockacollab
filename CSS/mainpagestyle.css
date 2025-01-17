@@ -39,7 +39,6 @@ header {
 
 main {
     padding: 20px;
-
 }
 
 button {
@@ -64,20 +63,50 @@ img {
 
 }
 
+.left_img{
+    float:left;
+}
+
+.center_img{
+    float:left;
+}
+
+.right_img{
+    float:left;
+}
+
+.left_text{
+    float:left;
+    text-wrap: nowrap;
+}
+
+.center_text{
+    float:left;
+    text-wrap: nowrap;
+}
+
+.right_text{
+    float:left;
+    text-wrap: nowrap;
+}
+
 img:hover {
     transform: scale(1.1);
 
 }
 
 .custom-table td, th {
-
-padding-bottom: 20px;
-padding-left: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-style: solid;
+    border-color: red;
 
 }
 
 .custom-table{
-  width: 100%
+  width: 90%;
+  border-style: solid;
+  border-color: red;
 }
 .custom-table h2 {
     font-size:2rem;
