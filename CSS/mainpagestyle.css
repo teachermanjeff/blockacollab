@@ -59,7 +59,7 @@ button:hover {
 img {
     
     border-radius: 14px;
-    transition: transform 0.3s ease;
+    transition: transform 0.2s ease;
 
 }
 
@@ -78,7 +78,7 @@ img {
 }
 
 img:hover {
-    transform: scale(1.05);
+    transform: scale(1.03);
 
 }
 
