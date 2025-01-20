@@ -84,16 +84,10 @@ img:hover {
 
 .custom-table td, th {
     padding-bottom: 10px;
-
-    border-style: solid;
-    border-color: red;
-
 }
 
 .custom-table{
   width: 90%;
-  border-style: solid;
-  border-color: red;
 }
 .custom-table h2 {
     font-size:2rem;
