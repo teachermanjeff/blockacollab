@@ -68,17 +68,7 @@ img {
 
 
 
-.left_text{
-    text-wrap: nowrap;
-}
 
-.center_text{
-    text-wrap: nowrap;
-}
-
-.right_text{
-    text-wrap: nowrap;
-}
 
 img:hover {
     transform: scale(1.03);
@@ -99,4 +89,10 @@ img:hover {
     text-align: center;
 
 }
+.custom-table figcaption {
 
+text-align:center;
+padding-top:10px;
+font-size: 1.2rem
+
+}
