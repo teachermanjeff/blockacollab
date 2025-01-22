@@ -88,6 +88,8 @@ img:hover {
 
 .custom-table{
   width: 90%;
+  margin-left:auto;
+  margin-right:auto;
 }
 .custom-table h2 {
     font-size:2rem;
